@@ -44,6 +44,22 @@
         "Pebabe": "/proxy/api/imgur/chapter/SNKHbD6/"
       },
       "last_updated": "1632278691"
+    },
+    "56": {
+      "title": "Chapter 56",
+      "volume": "10",
+      "groups": {
+        "Pebabe": "/proxy/api/imgur/chapter/jgy3htu/"
+      },
+      "last_updated": "1633477566"
+    },
+    "57": {
+      "title": "Chapter 57",
+      "volume": "10",
+      "groups": {
+        "Pebabe": "/proxy/api/imgur/chapter/nfaAq0f/"
+      },
+      "last_updated": "1633477566"
     }
   }
 }
